@@ -5,8 +5,6 @@
 
 ## Notes
 
-Modify the implementation:
-
 ### Entity
 
 - if the entity can have logic related to ECS, creating, destroying components,
